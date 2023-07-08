@@ -1,0 +1,57 @@
+# Política de Divulgación de Vulnerabilidades de {{organization}}
+
+## Introducción
+
+{{organization}} agradece los comentarios de los investigadores de seguridad y del público en general para ayudar a mejorar nuestra seguridad. Si cree que ha descubierto una vulnerabilidad, un problema de privacidad, datos expuestos u otros problemas de seguridad en cualquiera de nuestros activos, queremos escucharlo. Esta política describe los pasos para reportar vulnerabilidades a nosotros, qué esperamos y qué puede esperar de nosotros.
+
+## Sistemas en el Ámbito de Aplicación
+
+Esta política se aplica a cualquier activo digital propiedad, operado o mantenido por {{organization}}.
+
+## Fuera del Ámbito de Aplicación
+
+- Activos u otros equipos no propiedad de las partes que participan en esta política.
+
+Las vulnerabilidades descubiertas o sospechadas en sistemas fuera del ámbito de aplicación deben ser reportadas al proveedor correspondiente o a la autoridad aplicable.
+
+## Nuestros Compromisos
+
+Al trabajar con nosotros, de acuerdo con esta política, puede esperar que nosotros:
+
+- Respondamos a su informe de manera rápida y trabajemos con usted para entender y validar su informe;
+- Nos esforcemos por mantenerlo informado sobre el progreso de una vulnerabilidad mientras se procesa;
+- Trabajemos para remediar las vulnerabilidades descubiertas de manera oportuna, dentro de nuestras limitaciones operativas; y
+- Extendamos Puerto Seguro para su investigación de vulnerabilidades que esté relacionada con esta política.
+
+## Nuestras Expectativas
+
+Al participar de buena fe en nuestro programa de divulgación de vulnerabilidades, le pedimos que:
+
+- Juegue según las reglas, incluyendo el seguir esta política y cualquier otro acuerdo relevante. Si hay alguna inconsistencia entre esta política y cualquier otro término aplicable, prevalecerán los términos de esta política;
+- Informe cualquier vulnerabilidad que haya descubierto de inmediato;
+- Evite violar la privacidad de los demás, interrumpir nuestros sistemas, destruir datos y/o perjudicar la experiencia del usuario;
+- Utilice sólo los Canales Oficiales para discutir información de vulnerabilidad con nosotros;
+- Proporciónenos un tiempo razonable para resolver el problema antes de divulgarlo públicamente;
+- Realice pruebas sólo en sistemas dentro del ámbito de aplicación y respete los sistemas y actividades que están fuera del ámbito de aplicación;
+- Si una vulnerabilidad proporciona acceso no intencionado a datos: Limite la cantidad de datos a los que accede al mínimo necesario para demostrar de manera efectiva una Prueba de Concepto; y deje de probar y envíe un informe de inmediato si encuentra cualquier dato de usuario durante las pruebas, como Información Personal Identificable (PII), Información Personal de Salud (PHI), datos de tarjetas de crédito o información propietaria;
+- Sólo debe interactuar con cuentas de prueba que posea o con el permiso explícito del titular de la cuenta; y
+- No participe en extorsión.
+
+## Canales Oficiales
+
+Por favor, informe de los problemas de seguridad a través de {{channel}}, proporcionando toda la información relevante. Cuantos más detalles proporcione, más fácil será para nosotros gestionar y solucionar el problema.
+
+## Puerto Seguro
+
+Al realizar investigaciones de vulnerabilidades, de acuerdo con esta política, consideramos que la investigación llevada a cabo bajo esta política es:
+
+- Autorizada en relación con cualquier ley anti-hacking aplicable, y no iniciaremos ni apoyaremos acciones legales contra usted por violaciones accidentales o de buena fe de esta política;
+- Autorizada en relación con cualquier ley relevante anti-circumvención, y no presentaremos una demanda contra usted por la elusión de controles tecnológicos;
+- Exenta de restricciones en nuestros Términos de Servicio (TOS) y/o Política de Uso Aceptable (AUP) que interfieran con la realización de investigaciones de seguridad, y renunciamos a esas restricciones de forma limitada; y
+- Legal, útil para la seguridad general de Internet, y llevada a cabo de buena fe.
+
+Se espera, como siempre, que cumpla con todas las leyes aplicables. Si una tercera parte inicia una acción legal contra usted y usted ha cumplido con esta política, tomaremos medidas para hacer saber que sus acciones se realizaron en cumplimiento de esta política.
+
+Si en algún momento tiene preocupaciones o no está seguro de si su investigación de seguridad es consistente con esta política, por favor envíe un informe a través de uno de nuestros Canales Oficiales antes de avanzar.
+
+> Tenga en cuenta que el Puerto Seguro solo se aplica a reclamaciones legales bajo el control de la organización que participa en esta política, y que la política no obliga a terceros independientes.
